@@ -41,12 +41,12 @@ You can download the latest Android build here:
 
 ---
 🌐 Live Demo
-OppiEduAI доступен онлайн:
+OppiEduAI is available online:
 
 👉 https://oppieduai.pages.dev/
 
-Это веб‑версия проекта, развёрнутая на Cloudflare Pages.
-Позволяет фондам и проверяющим быстро увидеть интерфейс и структуру приложения без установки APK.
+This is the web version of the project deployed on Cloudflare Pages.
+It allows funding organizations and reviewers to quickly see the interface and structure of the application without installing the APK.
 
 ## 🚀 Roadmap
 
