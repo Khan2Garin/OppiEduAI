@@ -40,6 +40,13 @@ You can download the latest Android build here:
 (Install on any Android device. No permissions required except internet for optional features.)
 
 ---
+🌐 Live Demo
+OppiEduAI доступен онлайн:
+
+👉 https://oppieduai.pages.dev/
+
+Это веб‑версия проекта, развёрнутая на Cloudflare Pages.
+Позволяет фондам и проверяющим быстро увидеть интерфейс и структуру приложения без установки APK.
 
 ## 🚀 Roadmap
 
