@@ -35,7 +35,7 @@
 
 You can download the latest Android build here:
 
-👉 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**
+👉 **https://github.com/Khan2Garin/OppiEduAI/releases/tag/v1.0
 
 (Install on any Android device. No permissions required except internet for optional features.)
 
