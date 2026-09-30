@@ -37,7 +37,9 @@ You can download the latest Android build here:
 
 👉 **https://github.com/Khan2Garin/OppiEduAI/releases/tag/v1.0
 
+
 Included in this release as OppiEduAI.apk - Large AI model for modern smartphones and tablets.
+
 Included in this release as OppiEduAISmall.apk - Small AI model for older smartphones and tablets.
 
 (Install on any Android device. No permissions required except internet for optional features.)
