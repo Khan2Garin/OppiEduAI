@@ -37,13 +37,17 @@ You can download the latest Android build here:
 
 👉 **https://github.com/Khan2Garin/OppiEduAI/releases/tag/v1.0
 
+Included in this release as OppiEduAI.apk - Large AI model for modern smartphones and tablets.
+Included in this release as OppiEduAISmall.apk - Small AI model for older smartphones and tablets.
+
 (Install on any Android device. No permissions required except internet for optional features.)
 
 ---
-🌐 Live Demo
-OppiEduAI is available online:
+🌐 Live Demo:
 
-👉 https://oppieduai.pages.dev/
+👉 https://oppieduai.pages.dev/ - Large AI model
+👉 https://oppieduaim.pages.dev/ - Small AI model
+
 
 This is the web version of the project deployed on Cloudflare Pages.
 It allows funding organizations and reviewers to quickly see the interface and structure of the application without installing the APK.
