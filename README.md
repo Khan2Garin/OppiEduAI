@@ -46,6 +46,7 @@ Included in this release as OppiEduAISmall.apk - Small AI model for older smartp
 🌐 Live Demo:
 
 👉 https://oppieduai.pages.dev/ - Large AI model
+
 👉 https://oppieduaim.pages.dev/ - Small AI model
 
 
